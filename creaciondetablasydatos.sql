@@ -19,7 +19,7 @@ VALUES(2, 'Carnes', 'vaca, cerdo, buey, cordero');
 
 
 INSERT INTO TiposdeProductos (TipoID, Nombre, Descripcion)
-VALUES(3, 'Pescados', 'lubina, rape, salmon, ');
+VALUES(3, 'Pescados', 'lubina, rape, salmon, merluza');
 
 
 INSERT INTO TiposdeProductos (TipoID, Nombre, Descripcion)
